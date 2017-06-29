@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  margin-top: 75px;
+}
+
+header {
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  top: 0;
+  display: flex;
+  max-height: 75px;
+}
+
+li {
+  list-style: none;
+}
+
+nav {
+  color: white;
+}
